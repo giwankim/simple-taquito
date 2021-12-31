@@ -1,0 +1,12 @@
+{
+  "name": "simple-taquito",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:giwankim/simple-taquito.git",
+  "author": "Giwan Kim <giwan.kim@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@taquito/signer": "^11.1.0",
+    "@taquito/taquito": "^11.1.0"
+  }
+}
